@@ -57,9 +57,9 @@ async function displayDiscoverSets() {
 
         const picks = shuffleArray(sets).slice(0, 3);
         container.innerHTML = picks.map(set => `
-            <a class="set" href="${set.url}" target="_blank" rel="noopener"
+            <a class="set" href="${set.url}" target="_blank" rel="noopener">
                 <h3>${set.name}</h3>
-                <img src-"${set.set_img}" alt="${set.name}" loading="lazy">
+                <img src="${set.set_img}" alt="${set.name}" loading="lazy">
                 <p><strong>Pieces:</strong> ${set.num_parts.toLocaleString()}</p>
                 <p><strong>Year:</strong> ${set.year}</p>
             </a>
