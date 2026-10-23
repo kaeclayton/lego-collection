@@ -1,0 +1,31 @@
+:root {
+    --red: #b40000;
+    --blue: #003c88;
+    --yellow: #f2cd37;
+    --green: #4b9f4a;
+    --white: #ffffff;
+    --black: #000000;
+}
+
+body {
+    background-color: var(--yellow);
+}
+
+h1, h2 {
+    font-family: 'Arial Black', Impact, Verdana, sans-serif;
+    letter-spacing: 1px;
+    color: var(--white);
+    border: 5px solid var(--green);
+}
+h1 {    
+    background-color: var(--red);
+}
+
+h2 {
+    background-color: var(--blue);
+}
+
+p {
+    font-family: 'Arial Bold', Verdana, sans-serif;
+    color: var(--black);
+}

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My LEGO Collection</title>
+    <meta name="author" content="Kae Clayton">
+    <meta name="description" content="Home page to my LEGO collection website">
+    <meta property="og:title" content="My LEGO Collection - Home">
+    <meta property="og:description" content="The home page to my LEGO collection website.">
+    <meta property="og:image" content="https://kaeclayton.github.io/lego-collection/images/colosseum-large.webp">
+    <meta property="og:url" content="https://kaeclayton.github.io/lego-collection/index.html">
+    <link rel="stylesheet" href="styles/small.css">
+    <link rel="stylesheet" href="styles/large.css">
+    <link rel="icon" href="images/lego-favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@600&display=swap" rel="stylesheet">
+    <script type="module" src="scripts/main.js"></script>
+    <script type="module" src="scripts/homepage.js"></script>
+</head>
+<body>
+    <header>
+        <img src="images/lego-favicon.ico" alt="LEGO inspired favicon">
+        <span>My LEGO Collection - Home</span>
+        <button id="ham-button" class="hamburger" aria-label="Toggle navigation menu"></button>
+        <nav aria-label="Main navigation">
+            <ul>
+                <li class="current"><a href="index.html">Home</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="share.html">Share</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>My LEGO Collection</h1>
+        <section class="the-why">
+            <h2>Why do I love LEGO?</h2>
+            <div class="the-why-content">
+                <div class="the-why-text">
+                    <p>I grew up with LEGO in my home, but it wasn't until I was a mom of LEGO lovers that I really became passionate about them.  My oldest, Isaak, loved LEGO from a very young age, he was very creative with coming up with his own creations.  Watching him come up with some amazing things sparked more interest in me.  Our first trip to LEGOLAND California, in the summer of 2009, is where I think my passion really began.  The clincher was when I saw MINILAND USA.  I was enthralled with all the miniature versions of places I have been or wanted to see.  After that I was hooked and my obsession began.  I am not as creative as my son at coming up with new designs, but put a pile of LEGO in front of me with some instructions and I am a whiz at putting them together quickly.  This building has become a way for me to wind down and relax.</p>
+                </div>
+                <div class="the-why-images">    
+                    <img src="images/lego-airplane-hanger.webp" alt="Isaak and his small LEGO airplane hanger and two LEGO airplanes" width="400" height="300" loading="lazy">
+                    <img src="images/miniland-usa.webp" alt="Looking at MINILAND USA from the New Orleans side." width="400" height="300" loading="lazy">
+                </div>
+            </div>        
+        </section>
+        <section class="featured">
+            <h2>Featured Sets</h2>
+            <div id="featured-sets" class="sets-grid"></div>
+        </section>
+        <div class="cta">
+            <p>Want to see all my LEGO sets?</p>
+            <a href="gallery.html" class="button">View My Gallery</a>
+        </div>
+    </main> 
+    <footer>
+        <p>&copy; 2025 LEGO Collections | <a href="attributions.html">Attributions</a></p>
+        <p>LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site.</p>
+    </footer>
+</body>
+</html>
