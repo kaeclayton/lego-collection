@@ -211,6 +211,11 @@ p {
     font-family: 'Arial Bold', Verdana, sans-serif;
     color: var(--black);
 }
+a.set {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}
  /* Modal Dialog */
  dialog {
     border: none;
