@@ -1,0 +1,308 @@
+[
+    {
+        "set_num": "21012-1",
+        "name": "Sydney Opera House",
+        "year": 2013,
+        "num_parts": 270,
+        "set_img": "images/sydney-opera.webp",
+        "lrg_img": "images/sydney-opera-large.webp",
+        "theme": "Architecture"
+    },
+    {
+        "set_num": "10236-1",
+        "name": "Ewok Village",
+        "year": 2013,
+        "num_parts": 1990,
+        "set_img": "images/ewok-village.webp",
+        "lrg_img": "images/ewok-village-large.webp",
+        "theme": "Star Wars"
+    },
+    {
+        "set_num": "10225-1",
+        "name": "R2-D2",
+        "year": 2012,
+        "num_parts": 2127,
+        "set_img": "images/r2d2.webp",
+        "lrg_img": "images/r2d2-large.webp",
+        "theme": "Star Wars"
+    },
+    {
+        "set_num": "10240-1",
+        "name": "Red Five X-wing Starfighter",
+        "year": 2013,
+        "num_parts": 1559,
+        "set_img": "images/x-wing.webp",
+        "lrg_img": "images/x-wing-large.webp",
+        "theme": "Star Wars"
+    },
+    {
+        "set_num": "10255-1",
+        "name": "Assembly Square",
+        "year": 2017,
+        "num_parts": 4002,
+        "set_img": "images/assembly-square.webp",
+        "lrg_img": "images/assembly-square-large.webp",
+        "theme": "Creator Expert"
+    },
+    {
+        "set_num": "21306-1",
+        "name": "The Beatles Yellow Submarine",
+        "year": 2016,
+        "num_parts": 553,
+        "set_img": "images/yellow-submarine.webp",
+        "lrg_img": "images/yellow-submarine-large.webp",
+        "theme": "Ideas"
+    },
+    {
+        "set_num": "75192-1",
+        "name": "Millennium Falcon",
+        "year": 2017,
+        "num_parts": 7541,
+        "set_img": "images/millennium-falcon.webp",
+        "lrg_img": "images/millennium-falcon-large.webp",
+        "theme": "Star Wars"
+    },
+    {
+        "set_num": "75187-1",
+        "name": "BB-8",
+        "year": 2017,
+        "num_parts": 1106,
+        "set_img": "images/bb8.webp",
+        "lrg_img": "images/bb8-large.webp",
+        "theme": "Star Wars"
+    },
+    {
+        "set_num": "42083-1",
+        "name": "Bugatti Chiron",
+        "year": 2018,
+        "num_parts": 3599,
+        "set_img": "images/bugatti.webp",
+        "lrg_img": "images/bugatti-large.webp",
+        "theme": "Technic"
+    },
+    {
+        "set_num": "71043-1",
+        "name": "Hogwarts Castle",
+        "year": 2018,
+        "num_parts": 6020,
+        "set_img": "images/hogwarts-castle.webp",
+        "lrg_img": "images/hogwarts-castle-large.webp",
+        "theme":"Harry Potter"
+    },
+    {
+        "set_num": "21319-1",
+        "name": "Central Perk",
+        "year": 2019,
+        "num_parts": 1070,
+        "set_img": "images/central-perk.webp",
+        "lrg_img": "images/central-perk-large.webp",
+        "theme": "Ideas"
+    },
+    {
+        "set_num": "75317-1",
+        "name": "The Mandalorian & The Child",
+        "year": 2021,
+        "num_parts": 295,
+        "set_img": "images/mandalorian-child.webp",
+        "lrg_img": "images/mandalorian-child-large.webp",
+        "theme": "Star Wars"
+    },
+    {
+        "set_num": "42115-1",
+        "name": "Lamborghini Sián FKP 37",
+        "year": 2020,
+        "num_parts": 3696,
+        "set_img": "images/lamborghini.webp",
+        "lrg_img": "images/lamborghini-large.webp",
+        "theme": "Technic"
+    },
+    {
+        "set_num": "75290-1",
+        "name": "Mos Eisley Cantina",
+        "year": 2020,
+        "num_parts": 3187,
+        "set_img": "images/mos-eisley-cantina.webp",
+        "lrg_img": "images/mos-eisley-cantina-large.webp",
+        "theme": "Star Wars"
+    },
+    {
+        "set_num": "10276-1",
+        "name": "Colosseum",
+        "year": 2020,
+        "num_parts": 9036,
+        "set_img": "images/colosseum.webp",
+        "lrg_img": "images/colosseum-large.webp",
+        "theme": "Creator Expert"
+    },
+    {
+        "set_num": "10281-1",
+        "name": "Bonsai Tree",
+        "year": 2021,
+        "num_parts": 878,
+        "set_img": "images/bonsai.webp",
+        "lrg_img": "images/bonsai-large.webp",
+        "theme": "Creator Expert"
+    },
+    {
+        "set_num": "10283-1",
+        "name": "NASA Space Shuttle Discovery",
+        "year": 2021,
+        "num_parts": 2354,
+        "set_img": "images/shuttle-discovery.webp",
+        "lrg_img": "images/shuttle-discovery-large.webp",
+        "theme": "Creator Expert"
+    },
+    {
+        "set_num": "31203-1",
+        "name": "World Map",
+        "year": 2021,
+        "num_parts": 11695,
+        "set_img": "images/world-map.webp",
+        "lrg_img": "images/world-map-large.webp",
+        "theme": "Creator Expert"
+    },
+    {
+        "set_num": "10292-1",
+        "name": "The Friends Apartments",
+        "year": 2021,
+        "num_parts": 2048,
+        "set_img": "images/friends-apartments.webp",
+        "lrg_img": "images/friends-apartments-large.webp",
+        "theme": "Creator Expert"
+    },
+    {
+        "set_num": "76391-1",
+        "name": "Hogwarts Icons - Collectors' Edition",
+        "year": 2021,
+        "num_parts": 3010,
+        "set_img": "images/hogwarts-icons.webp",
+        "lrg_img": "images/hogwarts-icons-large.webp",
+        "theme": "Harry Potter"
+    },
+    {
+        "set_num": "10294-1",
+        "name": "Titanic",
+        "year": 2021,
+        "num_parts": 9090,
+        "set_img": "images/titanic.webp",
+        "lrg_img": "images/titanic-large.webp",
+        "theme": "Creator Expert"
+    },
+    {
+        "set_num": "21320-1",
+        "name": "Dinosaur Fossils: Tyrannosaurus Rex",
+        "year": 2019,
+        "num_parts": 910,
+        "set_img": "images/t-rex.webp",
+        "lrg_img": "images/t-rex-large.webp",
+        "theme": "Creator Expert"
+    },
+    {
+        "set_num": "75947-1",
+        "name": "Hagrid's Hut: Buckbeak's Rescue",
+        "year": 2020,
+        "num_parts": 496,
+        "set_img": "images/hagrids-hut.webp",
+        "lrg_img": "images/hagrids-hut-large.webp",
+        "theme": "Harry Potter"
+    },
+    {
+        "set_num": "40346-1",
+        "name": "LEGOLAND Park",
+        "year": 2019,
+        "num_parts": 157,
+        "set_img": "images/legoland-park.webp",
+        "lrg_img": "images/legoland-park-large.webp",
+        "theme": "Creator Expert"
+    },
+    {
+        "set_num": "40299-1",
+        "name": "LOVE",
+        "year": 2018,
+        "num_parts": 263,
+        "set_img": "images/love.webp",
+        "lrg_img": "images/love-large.webp",
+        "theme": "Creator Expert"
+    },
+    {
+        "set_num": "42056-1",
+        "name": "McLaren P1",
+        "year": 2024,
+        "num_parts": 3893,
+        "set_img": "images/mclaren-p1.webp",
+        "lrg_img": "images/mclaren-p1-large.webp",
+        "theme": "Technic"
+    },
+    {
+        "set_num": "21061-1",
+        "name": "Notre-Dame de Paris",
+        "year": 2022,
+        "num_parts": 4283,
+        "set_img": "images/notre-dame.webp",
+        "lrg_img": "images/notre-dame-large.webp",
+        "theme": "Architecture"
+    },
+    {
+        "set_num": "75328-1",
+        "name": "The Mandalorian Helmet",
+        "year": 2022,
+        "num_parts": 584,
+        "set_img": "images/mandalorian-helmet.webp",
+        "lrg_img": "images/mandalorian-helmet-large.webp",
+        "theme": "Star Wars"
+    },
+    {
+        "set_num": "75341-1",
+        "name": "Luke Skywalker's Landspeeder",
+        "year": 2022,
+        "num_parts": 1890,
+        "set_img": "images/skywalker-landspeeder.webp",
+        "lrg_img": "images/skywalker-landspeeder-large.webp",
+        "theme": "Star Wars"
+    },
+    {
+        "set_num": "42143-1",
+        "name": "Ferrari Daytona SP3",
+        "year": 2022,
+        "num_parts": 3778,
+        "set_img": "images/ferrari.webp",
+        "lrg_img": "images/ferrari-large.webp",
+        "theme": "Technic"
+    },
+    {
+        "set_num": "10307-1",
+        "name": "Eiffel Tower",
+        "year": 2022,
+        "num_parts": 10001,
+        "set_img": "images/eiffel-tower.webp",
+        "lrg_img": "images/eiffel-tower-large.webp",
+        "theme": "Creator Expert"
+    },
+    {
+        "set_num": "92176-1",
+        "name": "NASA Apollo Saturn V",
+        "year": 2022,
+        "num_parts": 1969,
+        "set_img": "images/saturn-V.webp",
+        "lrg_img": "images/saturn-V-large.webp",
+        "theme": "Architecture"
+    },
+    {
+        "set_num": "21333-1",
+        "name": "The Starry Night",
+        "year": 2022,
+        "num_parts": 2316,
+        "set_img": "images/starry-night.webp",
+        "lrg_img": "images/starry-night-large.webp",
+        "theme": "Creator Expert"
+    },
+    {
+        "set_num": "21233-1",
+        "name": "Vincent Van Gogh - Sunflowers",
+        "year": 2022,
+        "num_parts": 1833,
+        "set_img": "images/sunflowers.webp",
+        "lrg_img": "images/sunflowers-large.webp",
+        "theme": "Creator Expert"
+    }
+]
