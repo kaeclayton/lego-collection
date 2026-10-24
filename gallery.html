@@ -36,6 +36,26 @@
     </header>
     <main>
         <h1>All My LEGO Sets</h1>
+        <div class="gallery-controls">
+            <label>Theme
+                <select id="theme-filter">
+                    <option value="all">All themes</option>
+                </select>
+            </label>
+            <label>Sort by
+                <select id="sort-order">
+                    <option value="name">Name (A-Z)</option>
+                    <option value="pieces-desc">Most pieces</option>
+                    <option value="pieces-asc">Fewest pieces</option>
+                    <option value="year-desc">Newest</option>
+                    <option value="year-asc">Oldest</option>
+                </select>
+            </label>
+            <label>
+                <input type="checkbox" id="favorites-only"> Favorites only
+            </label>
+        </div>
+        <p id="results-count" aria-live="polite"></p>
         <div id="all-sets" class="gallery-grid"></div>
         <dialog id="lego-modal"></dialog>
     </main>

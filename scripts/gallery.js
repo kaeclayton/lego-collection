@@ -21,6 +21,33 @@ function favoriteLabel(isFavorited) {
     return isFavorited ? '❤️ Remove from Favorites' : '🤍 Add to Favorites';
 }
 
+const sorters = {
+    'name': (a, b) => a.name.localeCompare(b.name),
+    'pieces-desc': (a, b) => b.num_parts - a.num_parts,
+    'pieces-asc': (a, b) => a.num_parts - b.num_parts,
+    'year-desc': (a, b) => b.year - a.year,
+    'year-asc': (a, b) => a.year - b.year
+};
+
+function populateThemeFilter() {
+    const select = document.getElementById('theme-filter');
+    const themes = [...new Set(allSets.map(set => set.theme).filter(Boolean))].sort();
+    select.insertAdjacentHTML('beforeend'),
+        themes.map(theme => `<option value="${theme}">${theme}</option>`).join('')
+};
+
+function getVisibleSets() {
+    const theme = document.getElementById('theme-filter').value;
+    const sortOrder = document.getElementById('sort-order').value;
+    const favoritesOnly = document.getElementById('favorites-only').checked;
+    const favorites = getFavorites();
+
+    return allSets
+        .filter(set => theme === 'all' || set.theme === theme)
+        .filter(set => !favoritesOnly || favorites.includes(set.set_num))
+        .sort(sorters[sortOrder]);
+}
+
 function showSetDetails(set) {
     const dialog = document.getElementById('lego-modal');
     const isFavorited = getFavorites().includes(set.set_num);
@@ -62,7 +89,17 @@ function renderSets() {
         return;
     }
 
-    container.innerHTML = allSets.map(set => `
+    // container.innerHTML = allSets.map(set => `
+    const visibleSets = getVisibleSets();
+    document.getElementById('results-count').textContent =
+        `Showing ${visibleSets.length} of ${allSets.length} sets`;
+    
+    if (visibleSets.length === 0) {
+        container.innerHTML = '<p class="no-results">No sets match these filters. Try another theme or turn off Favorites only.</p>';
+        return;
+    }
+
+    container.innerHTML = visibleSets.map(set => `
         <button type="button" class="gallery-card" data-set-num="${set.set_num}">
             <img src="${set.set_img}" alt="" loading="lazy" width="180" height="180">
             <span class="card-title">${set.name}</span>
@@ -75,8 +112,15 @@ async function initGallery() {
     const container = document.getElementById('all-sets');
     if (!container) return;
 
+    // allSets = await getMyCollection();
+    // renderSets();
     allSets = await getMyCollection();
+    populateThemeFilter();
     renderSets();
+
+    ['theme-filter', 'sort-order', 'favorites-only'].forEach(id => {
+        document.getElementById(id).addEventListener('change', renderSets);
+    });
 
     // One listener for every card (event delegation)
     container.addEventListener('click', (event) => {
