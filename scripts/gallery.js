@@ -90,7 +90,6 @@ function renderSets() {
         return;
     }
 
-    // container.innerHTML = allSets.map(set => `
     const visibleSets = getVisibleSets();
     document.getElementById('results-count').textContent =
         `Showing ${visibleSets.length} of ${allSets.length} sets`;
@@ -113,8 +112,6 @@ async function initGallery() {
     const container = document.getElementById('all-sets');
     if (!container) return;
 
-    // allSets = await getMyCollection();
-    // renderSets();
     allSets = await getMyCollection();
     populateThemeFilter();
     renderSets();
