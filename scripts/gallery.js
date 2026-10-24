@@ -32,9 +32,10 @@ const sorters = {
 function populateThemeFilter() {
     const select = document.getElementById('theme-filter');
     const themes = [...new Set(allSets.map(set => set.theme).filter(Boolean))].sort();
-    select.insertAdjacentHTML('beforeend'),
+    select.insertAdjacentHTML('beforeend',
         themes.map(theme => `<option value="${theme}">${theme}</option>`).join('')
-};
+    );
+}
 
 function getVisibleSets() {
     const theme = document.getElementById('theme-filter').value;
