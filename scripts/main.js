@@ -51,15 +51,18 @@ function initFormActionPage() {
             const urlParams = new URLSearchParams(window.location.search);
 
             if (urlParams.toString()) {
-                let html = '<ul>';
+                const list = document.createElement('ul');
                 for (const [key, value] of urlParams) {
                     if (value && value.trim() !== '') {
-                        const label = key.replace(/-/g, ' ').replace(/b\w/g, l => l.toUpperCase());
-                        html += `<li><strong>${label}:</strong> ${decodeURIComponent(value)}</li>`;
+                        const label = key.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+                        const item = document.createElement('li');
+                        const strong = document.createElement('strong');
+                        strong.textContent = `${label}:`;
+                        item.append(strong, ` ${value}`);
+                        list.appendChild(item);
                     }
                 }
-                html += '</ul>';
-                detailsDiv.innerHTML = html;
+                detailsDiv.replaceChildren(list);
             } else {
                 detailsDiv.innerHTML = '<p>No form data received.  Please go back and try again.</p>';
             }
