@@ -1,315 +1,11 @@
 [
   {
-    "set_num": "71859-1",
-    "name": "The Dragon of Life",
-    "year": 2026,
-    "num_parts": 1050,
-    "set_img": "https://cdn.rebrickable.com/media/sets/71859-1/164707.jpg",
-    "url": "https://rebrickable.com/sets/71859-1/the-dragon-of-life/"
-  },
-  {
     "set_num": "72160-1",
     "name": "Arcanine",
     "year": 2026,
     "num_parts": 1190,
     "set_img": "https://cdn.rebrickable.com/media/sets/72160-1/177371.jpg",
     "url": "https://rebrickable.com/sets/72160-1/arcanine/"
-  },
-  {
-    "set_num": "76473-1",
-    "name": "Hogwarts Castle: East Wing",
-    "year": 2026,
-    "num_parts": 2164,
-    "set_img": "https://cdn.rebrickable.com/media/sets/76473-1/172204.jpg",
-    "url": "https://rebrickable.com/sets/76473-1/hogwarts-castle-east-wing/"
-  },
-  {
-    "set_num": "76344-1",
-    "name": "Iron Man Mark 3 Collectors' Edition",
-    "year": 2026,
-    "num_parts": 1297,
-    "set_img": "https://cdn.rebrickable.com/media/sets/76344-1/165264.jpg",
-    "url": "https://rebrickable.com/sets/76344-1/iron-man-mark-3-collectors-edition/"
-  },
-  {
-    "set_num": "42242-1",
-    "name": "Mercedes-Benz Unimog U 5023 with Crane",
-    "year": 2026,
-    "num_parts": 1189,
-    "set_img": "https://cdn.rebrickable.com/media/sets/42242-1/172384.jpg",
-    "url": "https://rebrickable.com/sets/42242-1/mercedes-benz-unimog-u-5023-with-crane/"
-  },
-  {
-    "set_num": "40507-1",
-    "name": "I ❤️ Billund",
-    "year": 2026,
-    "num_parts": 1404,
-    "set_img": "https://cdn.rebrickable.com/media/sets/40507-1/168902.jpg",
-    "url": "https://rebrickable.com/sets/40507-1/i-billund/"
-  },
-  {
-    "set_num": "76476-1",
-    "name": "The Ministry of Magic – Collectors' Edition",
-    "year": 2026,
-    "num_parts": 3492,
-    "set_img": "https://cdn.rebrickable.com/media/sets/76476-1/179336.jpg",
-    "url": "https://rebrickable.com/sets/76476-1/the-ministry-of-magic-collectors-edition/"
-  },
-  {
-    "set_num": "77082-1",
-    "name": "Rave Cave",
-    "year": 2026,
-    "num_parts": 1963,
-    "set_img": "https://cdn.rebrickable.com/media/sets/77082-1/172198.jpg",
-    "url": "https://rebrickable.com/sets/77082-1/rave-cave/"
-  },
-  {
-    "set_num": "72152-1",
-    "name": "Pikachu and Poké Ball",
-    "year": 2026,
-    "num_parts": 2050,
-    "set_img": "https://cdn.rebrickable.com/media/sets/72152-1/168675.jpg",
-    "url": "https://rebrickable.com/sets/72152-1/pikachu-and-poké-ball/"
-  },
-  {
-    "set_num": "42704-1",
-    "name": "Heartlake City Grand Hotel",
-    "year": 2026,
-    "num_parts": 1411,
-    "set_img": "https://cdn.rebrickable.com/media/sets/42704-1/172380.jpg",
-    "url": "https://rebrickable.com/sets/42704-1/heartlake-city-grand-hotel/"
-  },
-  {
-    "set_num": "77081-1",
-    "name": "KIT",
-    "year": 2026,
-    "num_parts": 1230,
-    "set_img": "https://cdn.rebrickable.com/media/sets/77081-1/172181.jpg",
-    "url": "https://rebrickable.com/sets/77081-1/kit/"
-  },
-  {
-    "set_num": "60494-1",
-    "name": "Dump Truck & Front End Loader",
-    "year": 2026,
-    "num_parts": 1132,
-    "set_img": "https://cdn.rebrickable.com/media/sets/60494-1/172387.jpg",
-    "url": "https://rebrickable.com/sets/60494-1/dump-truck-front-end-loader/"
-  },
-  {
-    "set_num": "77985-1",
-    "name": "Dinosaur Fossils: Triceratops",
-    "year": 2026,
-    "num_parts": 1154,
-    "set_img": "https://cdn.rebrickable.com/media/sets/77985-1/171217.jpg",
-    "url": "https://rebrickable.com/sets/77985-1/dinosaur-fossils-triceratops/"
-  },
-  {
-    "set_num": "11384-1",
-    "name": "Golden Retriever Puppy",
-    "year": 2026,
-    "num_parts": 2102,
-    "set_img": "https://cdn.rebrickable.com/media/sets/11384-1/167104.jpg",
-    "url": "https://rebrickable.com/sets/11384-1/golden-retriever-puppy/"
-  },
-  {
-    "set_num": "910059-1",
-    "name": "Privateer Frigate Fortuna",
-    "year": 2026,
-    "num_parts": 4086,
-    "set_img": "https://cdn.rebrickable.com/media/sets/910059-1/166414.jpg",
-    "url": "https://rebrickable.com/sets/910059-1/privateer-frigate-fortuna/"
-  },
-  {
-    "set_num": "11378-1",
-    "name": "Douglas DC-3 PAN AM Airliner",
-    "year": 2026,
-    "num_parts": 1903,
-    "set_img": "https://cdn.rebrickable.com/media/sets/11378-1/170108.jpg",
-    "url": "https://rebrickable.com/sets/11378-1/douglas-dc-3-pan-am-airliner/"
-  },
-  {
-    "set_num": "75461-1",
-    "name": "Up-Scaled Darth Vader Minifigure",
-    "year": 2026,
-    "num_parts": 1028,
-    "set_img": "https://cdn.rebrickable.com/media/sets/75461-1/173364.jpg",
-    "url": "https://rebrickable.com/sets/75461-1/up-scaled-darth-vader-minifigure/"
-  },
-  {
-    "set_num": "43302-1",
-    "name": "Main Street, U.S.A.",
-    "year": 2026,
-    "num_parts": 3899,
-    "set_img": "https://cdn.rebrickable.com/media/sets/43302-1/174162.jpg",
-    "url": "https://rebrickable.com/sets/43302-1/main-street-usa/"
-  },
-  {
-    "set_num": "45203-1",
-    "name": "Arctic Animals Science Kit",
-    "year": 2026,
-    "num_parts": 1134,
-    "set_img": "https://cdn.rebrickable.com/media/sets/45203-1/167188.jpg",
-    "url": "https://rebrickable.com/sets/45203-1/arctic-animals-science-kit/"
-  },
-  {
-    "set_num": "910058-1",
-    "name": "Sequoia Tree Trail",
-    "year": 2026,
-    "num_parts": 3187,
-    "set_img": "https://cdn.rebrickable.com/media/sets/910058-1/160895.jpg",
-    "url": "https://rebrickable.com/sets/910058-1/sequoia-tree-trail/"
-  },
-  {
-    "set_num": "71869-1",
-    "name": "Land Bounty",
-    "year": 2026,
-    "num_parts": 1215,
-    "set_img": "https://cdn.rebrickable.com/media/sets/71869-1/172929.jpg",
-    "url": "https://rebrickable.com/sets/71869-1/land-bounty/"
-  },
-  {
-    "set_num": "910064-1",
-    "name": "Dustmark Keep",
-    "year": 2026,
-    "num_parts": 3960,
-    "set_img": "https://cdn.rebrickable.com/media/sets/910064-1/173768.jpg",
-    "url": "https://rebrickable.com/sets/910064-1/dustmark-keep/"
-  },
-  {
-    "set_num": "43025-1",
-    "name": "Nike Air Max 95 x LEGO Set",
-    "year": 2026,
-    "num_parts": 1213,
-    "set_img": "https://cdn.rebrickable.com/media/sets/43025-1/170139.jpg",
-    "url": "https://rebrickable.com/sets/43025-1/nike-air-max-95-x-lego-set/"
-  },
-  {
-    "set_num": "11379-1",
-    "name": "Bookstore: Book Nook",
-    "year": 2026,
-    "num_parts": 1690,
-    "set_img": "https://cdn.rebrickable.com/media/sets/11379-1/180977.jpg",
-    "url": "https://rebrickable.com/sets/11379-1/bookstore-book-nook/"
-  },
-  {
-    "set_num": "77984-1",
-    "name": "Jurassic Park Jeep Wrangler",
-    "year": 2026,
-    "num_parts": 1926,
-    "set_img": "https://cdn.rebrickable.com/media/sets/77984-1/171190.jpg",
-    "url": "https://rebrickable.com/sets/77984-1/jurassic-park-jeep-wrangler/"
-  },
-  {
-    "set_num": "60508-1",
-    "name": "Police Train Heist",
-    "year": 2026,
-    "num_parts": 1313,
-    "set_img": "https://cdn.rebrickable.com/media/sets/60508-1/163908.jpg",
-    "url": "https://rebrickable.com/sets/60508-1/police-train-heist/"
-  },
-  {
-    "set_num": "11376-1",
-    "name": "Ford Model T",
-    "year": 2026,
-    "num_parts": 1060,
-    "set_img": "https://cdn.rebrickable.com/media/sets/11376-1/168267.jpg",
-    "url": "https://rebrickable.com/sets/11376-1/ford-model-t/"
-  },
-  {
-    "set_num": "75442-1",
-    "name": "The Mandalorian's N-1 Starfighter",
-    "year": 2026,
-    "num_parts": 1809,
-    "set_img": "https://cdn.rebrickable.com/media/sets/75442-1/171445.jpg",
-    "url": "https://rebrickable.com/sets/75442-1/the-mandalorians-n-1-starfighter/"
-  },
-  {
-    "set_num": "21366-1",
-    "name": "Floating Sea Otters",
-    "year": 2026,
-    "num_parts": 1234,
-    "set_img": "https://cdn.rebrickable.com/media/sets/21366-1/168251.jpg",
-    "url": "https://rebrickable.com/sets/21366-1/floating-sea-otters/"
-  },
-  {
-    "set_num": "43019-1",
-    "name": "Football",
-    "year": 2026,
-    "num_parts": 1498,
-    "set_img": "https://cdn.rebrickable.com/media/sets/43019-1/167522.jpg",
-    "url": "https://rebrickable.com/sets/43019-1/football/"
-  },
-  {
-    "set_num": "75453-1",
-    "name": "Offworld Sandcrawler and Mudhorn",
-    "year": 2026,
-    "num_parts": 1684,
-    "set_img": "https://cdn.rebrickable.com/media/sets/75453-1/174512.jpg",
-    "url": "https://rebrickable.com/sets/75453-1/offworld-sandcrawler-and-mudhorn/"
-  },
-  {
-    "set_num": "11370-1",
-    "name": "Stranger Things: The Creel House",
-    "year": 2026,
-    "num_parts": 2593,
-    "set_img": "https://cdn.rebrickable.com/media/sets/11370-1/164285.jpg",
-    "url": "https://rebrickable.com/sets/11370-1/stranger-things-the-creel-house/"
-  },
-  {
-    "set_num": "11382-1",
-    "name": "Hubble Space Telescope",
-    "year": 2026,
-    "num_parts": 1252,
-    "set_img": "https://cdn.rebrickable.com/media/sets/11382-1/177427.jpg",
-    "url": "https://rebrickable.com/sets/11382-1/hubble-space-telescope/"
-  },
-  {
-    "set_num": "11388-1",
-    "name": "Venetian Neighborhood",
-    "year": 2026,
-    "num_parts": 5683,
-    "set_img": "https://cdn.rebrickable.com/media/sets/11388-1/182357.jpg",
-    "url": "https://rebrickable.com/sets/11388-1/venetian-neighborhood/"
-  },
-  {
-    "set_num": "21372-1",
-    "name": "La Catrina",
-    "year": 2026,
-    "num_parts": 1212,
-    "set_img": "https://cdn.rebrickable.com/media/sets/21372-1/177583.jpg",
-    "url": "https://rebrickable.com/sets/21372-1/la-catrina/"
-  },
-  {
-    "set_num": "11377-1",
-    "name": "The Lord of the Rings: Minas Tirith",
-    "year": 2026,
-    "num_parts": 8278,
-    "set_img": "https://cdn.rebrickable.com/media/sets/11377-1/173837.jpg",
-    "url": "https://rebrickable.com/sets/11377-1/the-lord-of-the-rings-minas-tirith/"
-  },
-  {
-    "set_num": "21065-1",
-    "name": "Sagrada Família",
-    "year": 2026,
-    "num_parts": 12060,
-    "set_img": "https://cdn.rebrickable.com/media/sets/21065-1/175336.jpg",
-    "url": "https://rebrickable.com/sets/21065-1/sagrada-família/"
-  },
-  {
-    "set_num": "11380-1",
-    "name": "Road Bike",
-    "year": 2026,
-    "num_parts": 1015,
-    "set_img": "https://cdn.rebrickable.com/media/sets/11380-1/173527.jpg",
-    "url": "https://rebrickable.com/sets/11380-1/road-bike/"
-  },
-  {
-    "set_num": "71861-1",
-    "name": "The Old Town 15th Anniversary",
-    "year": 2026,
-    "num_parts": 4852,
-    "set_img": "https://cdn.rebrickable.com/media/sets/71861-1/165505.jpg",
-    "url": "https://rebrickable.com/sets/71861-1/the-old-town-15th-anniversary/"
   },
   {
     "set_num": "76466-1",
@@ -320,6 +16,30 @@
     "url": "https://rebrickable.com/sets/76466-1/sorcerers-stone-collectors-edition/"
   },
   {
+    "set_num": "60494-1",
+    "name": "Dump Truck & Front End Loader",
+    "year": 2026,
+    "num_parts": 1132,
+    "set_img": "https://cdn.rebrickable.com/media/sets/60494-1/172387.jpg",
+    "url": "https://rebrickable.com/sets/60494-1/dump-truck-front-end-loader/"
+  },
+  {
+    "set_num": "4000049-1",
+    "name": "Vintage LEGO Logo",
+    "year": 2026,
+    "num_parts": 1614,
+    "set_img": "https://cdn.rebrickable.com/media/sets/4000049-1/176146.jpg",
+    "url": "https://rebrickable.com/sets/4000049-1/vintage-lego-logo/"
+  },
+  {
+    "set_num": "75453-1",
+    "name": "Offworld Sandcrawler and Mudhorn",
+    "year": 2026,
+    "num_parts": 1684,
+    "set_img": "https://cdn.rebrickable.com/media/sets/75453-1/174512.jpg",
+    "url": "https://rebrickable.com/sets/75453-1/offworld-sandcrawler-and-mudhorn/"
+  },
+  {
     "set_num": "71514-1",
     "name": "Dino Jet",
     "year": 2026,
@@ -328,12 +48,84 @@
     "url": "https://rebrickable.com/sets/71514-1/dino-jet/"
   },
   {
-    "set_num": "11372-1",
-    "name": "Autumn Cottage Garden",
+    "set_num": "910055-1",
+    "name": "Gold Mine Expedition",
     "year": 2026,
-    "num_parts": 1102,
-    "set_img": "https://cdn.rebrickable.com/media/sets/11372-1/163430.jpg",
-    "url": "https://rebrickable.com/sets/11372-1/autumn-cottage-garden/"
+    "num_parts": 3387,
+    "set_img": "https://cdn.rebrickable.com/media/sets/910055-1/160885.jpg",
+    "url": "https://rebrickable.com/sets/910055-1/gold-mine-expedition/"
+  },
+  {
+    "set_num": "910062-1",
+    "name": "Alchemist's Shop",
+    "year": 2026,
+    "num_parts": 2319,
+    "set_img": "https://cdn.rebrickable.com/media/sets/910062-1/166433.jpg",
+    "url": "https://rebrickable.com/sets/910062-1/alchemists-shop/"
+  },
+  {
+    "set_num": "42704-1",
+    "name": "Heartlake City Grand Hotel",
+    "year": 2026,
+    "num_parts": 1411,
+    "set_img": "https://cdn.rebrickable.com/media/sets/42704-1/172380.jpg",
+    "url": "https://rebrickable.com/sets/42704-1/heartlake-city-grand-hotel/"
+  },
+  {
+    "set_num": "71861-1",
+    "name": "The Old Town 15th Anniversary",
+    "year": 2026,
+    "num_parts": 4852,
+    "set_img": "https://cdn.rebrickable.com/media/sets/71861-1/165505.jpg",
+    "url": "https://rebrickable.com/sets/71861-1/the-old-town-15th-anniversary/"
+  },
+  {
+    "set_num": "77082-1",
+    "name": "Rave Cave",
+    "year": 2026,
+    "num_parts": 1963,
+    "set_img": "https://cdn.rebrickable.com/media/sets/77082-1/172198.jpg",
+    "url": "https://rebrickable.com/sets/77082-1/rave-cave/"
+  },
+  {
+    "set_num": "40507-1",
+    "name": "I ❤️ Billund",
+    "year": 2026,
+    "num_parts": 1404,
+    "set_img": "https://cdn.rebrickable.com/media/sets/40507-1/168902.jpg",
+    "url": "https://rebrickable.com/sets/40507-1/i-billund/"
+  },
+  {
+    "set_num": "31220-1",
+    "name": "Claude Monet – Bridge over a Pond of Water Lilies",
+    "year": 2026,
+    "num_parts": 3179,
+    "set_img": "https://cdn.rebrickable.com/media/sets/31220-1/168233.jpg",
+    "url": "https://rebrickable.com/sets/31220-1/claude-monet-bridge-over-a-pond-of-water-lilies/"
+  },
+  {
+    "set_num": "75645-1",
+    "name": "Battle at Drum Castle",
+    "year": 2026,
+    "num_parts": 1034,
+    "set_img": "https://cdn.rebrickable.com/media/sets/75645-1/171267.jpg",
+    "url": "https://rebrickable.com/sets/75645-1/battle-at-drum-castle/"
+  },
+  {
+    "set_num": "31218-1",
+    "name": "Japanese Cherry Blossom Landscape",
+    "year": 2026,
+    "num_parts": 1892,
+    "set_img": "https://cdn.rebrickable.com/media/sets/31218-1/163384.jpg",
+    "url": "https://rebrickable.com/sets/31218-1/japanese-cherry-blossom-landscape/"
+  },
+  {
+    "set_num": "45203-1",
+    "name": "Arctic Animals Science Kit",
+    "year": 2026,
+    "num_parts": 1134,
+    "set_img": "https://cdn.rebrickable.com/media/sets/45203-1/167188.jpg",
+    "url": "https://rebrickable.com/sets/45203-1/arctic-animals-science-kit/"
   },
   {
     "set_num": "72154-1",
@@ -344,28 +136,212 @@
     "url": "https://rebrickable.com/sets/72154-1/iconic-trainer-moments-poké-ball/"
   },
   {
-    "set_num": "75457-1",
-    "name": "Executor Super Star Destroyer",
+    "set_num": "42705-1",
+    "name": "Cozy Fall Forest Cabin",
     "year": 2026,
-    "num_parts": 6130,
-    "set_img": "https://cdn.rebrickable.com/media/sets/75457-1/180221.jpg",
-    "url": "https://rebrickable.com/sets/75457-1/executor-super-star-destroyer/"
+    "num_parts": 1229,
+    "set_img": "https://cdn.rebrickable.com/media/sets/42705-1/172381.jpg",
+    "url": "https://rebrickable.com/sets/42705-1/cozy-fall-forest-cabin/"
   },
   {
-    "set_num": "21067-1",
-    "name": "Tower Bridge",
+    "set_num": "11380-1",
+    "name": "Road Bike",
     "year": 2026,
-    "num_parts": 3745,
-    "set_img": "https://cdn.rebrickable.com/media/sets/21067-1/177825.jpg",
-    "url": "https://rebrickable.com/sets/21067-1/tower-bridge/"
+    "num_parts": 1015,
+    "set_img": "https://cdn.rebrickable.com/media/sets/11380-1/173527.jpg",
+    "url": "https://rebrickable.com/sets/11380-1/road-bike/"
   },
   {
-    "set_num": "75645-1",
-    "name": "Battle at Drum Castle",
+    "set_num": "71858-1",
+    "name": "Four Weapons Blacksmith 15th Anniversary",
     "year": 2026,
-    "num_parts": 1034,
-    "set_img": "https://cdn.rebrickable.com/media/sets/75645-1/171267.jpg",
-    "url": "https://rebrickable.com/sets/75645-1/battle-at-drum-castle/"
+    "num_parts": 1259,
+    "set_img": "https://cdn.rebrickable.com/media/sets/71858-1/163011.jpg",
+    "url": "https://rebrickable.com/sets/71858-1/four-weapons-blacksmith-15th-anniversary/"
+  },
+  {
+    "set_num": "21367-1",
+    "name": "Tintin Moon Rocket",
+    "year": 2026,
+    "num_parts": 1283,
+    "set_img": "https://cdn.rebrickable.com/media/sets/21367-1/169930.jpg",
+    "url": "https://rebrickable.com/sets/21367-1/tintin-moon-rocket/"
+  },
+  {
+    "set_num": "43026-1",
+    "name": "Nike Air Force 1 x LEGO Set",
+    "year": 2026,
+    "num_parts": 1093,
+    "set_img": "https://cdn.rebrickable.com/media/sets/43026-1/179636.jpg",
+    "url": "https://rebrickable.com/sets/43026-1/nike-air-force-1-x-lego-set/"
+  },
+  {
+    "set_num": "21376-1",
+    "name": "Orange Cat",
+    "year": 2026,
+    "num_parts": 1755,
+    "set_img": "https://cdn.rebrickable.com/media/sets/21376-1/168017.jpg",
+    "url": "https://rebrickable.com/sets/21376-1/orange-cat/"
+  },
+  {
+    "set_num": "11383-1",
+    "name": "Mayor Manor",
+    "year": 2026,
+    "num_parts": 1420,
+    "set_img": "https://cdn.rebrickable.com/media/sets/11383-1/177489.jpg",
+    "url": "https://rebrickable.com/sets/11383-1/mayor-manor/"
+  },
+  {
+    "set_num": "11388-1",
+    "name": "Venetian Neighborhood",
+    "year": 2026,
+    "num_parts": 5683,
+    "set_img": "https://cdn.rebrickable.com/media/sets/11388-1/182357.jpg",
+    "url": "https://rebrickable.com/sets/11388-1/venetian-neighborhood/"
+  },
+  {
+    "set_num": "72306-1",
+    "name": "PlayStation",
+    "year": 2026,
+    "num_parts": 1911,
+    "set_img": "https://cdn.rebrickable.com/media/sets/72306-1/180834.jpg",
+    "url": "https://rebrickable.com/sets/72306-1/playstation/"
+  },
+  {
+    "set_num": "72153-1",
+    "name": "Venusaur, Charizard and Blastoise",
+    "year": 2026,
+    "num_parts": 6838,
+    "set_img": "https://cdn.rebrickable.com/media/sets/72153-1/168693.jpg",
+    "url": "https://rebrickable.com/sets/72153-1/venusaur-charizard-and-blastoise/"
+  },
+  {
+    "set_num": "71512-1",
+    "name": "Crocodile Submarine",
+    "year": 2026,
+    "num_parts": 1107,
+    "set_img": "https://cdn.rebrickable.com/media/sets/71512-1/164799.jpg",
+    "url": "https://rebrickable.com/sets/71512-1/crocodile-submarine/"
+  },
+  {
+    "set_num": "42228-1",
+    "name": "McLaren MCL39 F1 Car",
+    "year": 2026,
+    "num_parts": 1675,
+    "set_img": "https://cdn.rebrickable.com/media/sets/42228-1/168806.jpg",
+    "url": "https://rebrickable.com/sets/42228-1/mclaren-mcl39-f1-car/"
+  },
+  {
+    "set_num": "43030-1",
+    "name": "Olivia Rodrigo’s Secret Storage",
+    "year": 2026,
+    "num_parts": 1085,
+    "set_img": "https://cdn.rebrickable.com/media/sets/43030-1/176860.jpg",
+    "url": "https://rebrickable.com/sets/43030-1/olivia-rodrigos-secret-storage/"
+  },
+  {
+    "set_num": "11372-1",
+    "name": "Autumn Cottage Garden",
+    "year": 2026,
+    "num_parts": 1102,
+    "set_img": "https://cdn.rebrickable.com/media/sets/11372-1/163430.jpg",
+    "url": "https://rebrickable.com/sets/11372-1/autumn-cottage-garden/"
+  },
+  {
+    "set_num": "42691-1",
+    "name": "Garden Restaurant",
+    "year": 2026,
+    "num_parts": 1465,
+    "set_img": "https://cdn.rebrickable.com/media/sets/42691-1/165319.jpg",
+    "url": "https://rebrickable.com/sets/42691-1/garden-restaurant/"
+  },
+  {
+    "set_num": "11384-1",
+    "name": "Golden Retriever Puppy",
+    "year": 2026,
+    "num_parts": 2102,
+    "set_img": "https://cdn.rebrickable.com/media/sets/11384-1/167104.jpg",
+    "url": "https://rebrickable.com/sets/11384-1/golden-retriever-puppy/"
+  },
+  {
+    "set_num": "60508-1",
+    "name": "Police Train Heist",
+    "year": 2026,
+    "num_parts": 1313,
+    "set_img": "https://cdn.rebrickable.com/media/sets/60508-1/163908.jpg",
+    "url": "https://rebrickable.com/sets/60508-1/police-train-heist/"
+  },
+  {
+    "set_num": "21065-1",
+    "name": "Sagrada Família",
+    "year": 2026,
+    "num_parts": 12060,
+    "set_img": "https://cdn.rebrickable.com/media/sets/21065-1/175336.jpg",
+    "url": "https://rebrickable.com/sets/21065-1/sagrada-família/"
+  },
+  {
+    "set_num": "76476-1",
+    "name": "The Ministry of Magic – Collectors' Edition",
+    "year": 2026,
+    "num_parts": 3492,
+    "set_img": "https://cdn.rebrickable.com/media/sets/76476-1/179336.jpg",
+    "url": "https://rebrickable.com/sets/76476-1/the-ministry-of-magic-collectors-edition/"
+  },
+  {
+    "set_num": "71860-1",
+    "name": "Lloyd's Titan Mech 15th Anniversary",
+    "year": 2026,
+    "num_parts": 1293,
+    "set_img": "https://cdn.rebrickable.com/media/sets/71860-1/163886.jpg",
+    "url": "https://rebrickable.com/sets/71860-1/lloyds-titan-mech-15th-anniversary/"
+  },
+  {
+    "set_num": "45832-1",
+    "name": "BIOGLOW Challenge Set",
+    "year": 2026,
+    "num_parts": 2096,
+    "set_img": "https://cdn.rebrickable.com/media/sets/45832-1/179325.jpg",
+    "url": "https://rebrickable.com/sets/45832-1/bioglow-challenge-set/"
+  },
+  {
+    "set_num": "45834-1",
+    "name": "BIOGLOW Future Edition Set",
+    "year": 2026,
+    "num_parts": 1990,
+    "set_img": "https://cdn.rebrickable.com/media/sets/45834-1/179331.jpg",
+    "url": "https://rebrickable.com/sets/45834-1/bioglow-future-edition-set/"
+  },
+  {
+    "set_num": "75442-1",
+    "name": "The Mandalorian's N-1 Starfighter",
+    "year": 2026,
+    "num_parts": 1809,
+    "set_img": "https://cdn.rebrickable.com/media/sets/75442-1/171445.jpg",
+    "url": "https://rebrickable.com/sets/75442-1/the-mandalorians-n-1-starfighter/"
+  },
+  {
+    "set_num": "11371-1",
+    "name": "Shopping Street",
+    "year": 2026,
+    "num_parts": 3457,
+    "set_img": "https://cdn.rebrickable.com/media/sets/11371-1/165368.jpg",
+    "url": "https://rebrickable.com/sets/11371-1/shopping-street/"
+  },
+  {
+    "set_num": "72152-1",
+    "name": "Pikachu and Poké Ball",
+    "year": 2026,
+    "num_parts": 2050,
+    "set_img": "https://cdn.rebrickable.com/media/sets/72152-1/168675.jpg",
+    "url": "https://rebrickable.com/sets/72152-1/pikachu-and-poké-ball/"
+  },
+  {
+    "set_num": "910060-1",
+    "name": "Sushi Restaurant",
+    "year": 2026,
+    "num_parts": 3604,
+    "set_img": "https://cdn.rebrickable.com/media/sets/910060-1/166421.jpg",
+    "url": "https://rebrickable.com/sets/910060-1/sushi-restaurant/"
   },
   {
     "set_num": "910066-1",
@@ -384,19 +360,43 @@
     "url": "https://rebrickable.com/sets/43020-1/fifa-world-cup-official-trophy/"
   },
   {
-    "set_num": "75454-1",
-    "name": "Imperial Remnant AT-AT with INT-4",
+    "set_num": "71869-1",
+    "name": "Land Bounty",
     "year": 2026,
-    "num_parts": 1453,
-    "set_img": "https://cdn.rebrickable.com/media/sets/75454-1/174530.jpg",
-    "url": "https://rebrickable.com/sets/75454-1/imperial-remnant-at-at-with-int-4/"
+    "num_parts": 1215,
+    "set_img": "https://cdn.rebrickable.com/media/sets/71869-1/172929.jpg",
+    "url": "https://rebrickable.com/sets/71869-1/land-bounty/"
   },
   {
-    "set_num": "40955-1",
-    "name": "Maersk Dual-Fuel Container Vessel",
+    "set_num": "910064-1",
+    "name": "Dustmark Keep",
     "year": 2026,
-    "num_parts": 1516,
-    "set_img": "https://cdn.rebrickable.com/media/sets/40955-1/168457.jpg",
-    "url": "https://rebrickable.com/sets/40955-1/maersk-dual-fuel-container-vessel/"
+    "num_parts": 3960,
+    "set_img": "https://cdn.rebrickable.com/media/sets/910064-1/173768.jpg",
+    "url": "https://rebrickable.com/sets/910064-1/dustmark-keep/"
+  },
+  {
+    "set_num": "43302-1",
+    "name": "Main Street, U.S.A.",
+    "year": 2026,
+    "num_parts": 3899,
+    "set_img": "https://cdn.rebrickable.com/media/sets/43302-1/174162.jpg",
+    "url": "https://rebrickable.com/sets/43302-1/main-street-usa/"
+  },
+  {
+    "set_num": "43025-1",
+    "name": "Nike Air Max 95 x LEGO Set",
+    "year": 2026,
+    "num_parts": 1213,
+    "set_img": "https://cdn.rebrickable.com/media/sets/43025-1/170139.jpg",
+    "url": "https://rebrickable.com/sets/43025-1/nike-air-max-95-x-lego-set/"
+  },
+  {
+    "set_num": "43031-1",
+    "name": "Olivia Rodrigo’s Dual Guitar",
+    "year": 2026,
+    "num_parts": 1228,
+    "set_img": "https://cdn.rebrickable.com/media/sets/43031-1/176869.jpg",
+    "url": "https://rebrickable.com/sets/43031-1/olivia-rodrigos-dual-guitar/"
   }
 ]
